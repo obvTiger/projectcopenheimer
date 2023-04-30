@@ -1,4 +1,4 @@
-# projectcopenheimer
+# Project Copenheimer (not the original)
 
 
 Current state of the project:  
